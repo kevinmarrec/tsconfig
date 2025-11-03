@@ -1,5 +1,8 @@
 # @kevinmarrec/tsconfig
 
+> [!IMPORTANT]  
+> Moved to https://github.com/kevinmarrec/config/tree/main/packages/typescript
+
 ## Description
 
 Opinionated [TypeScript](https://www.typescriptlang.org) config.
